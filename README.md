@@ -1,6 +1,11 @@
 # Chat_App
 
 A new Flutter project.
+This is a desgin of front end Chat-App. It's Built using Flutter.
+Plugins Used:
+1. Faker :- https://pub.dev/packages/faker
+2. Icons :- https://pub.dev/packages/flutter_icons
+
 
 
 
